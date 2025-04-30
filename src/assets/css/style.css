@@ -1,0 +1,13 @@
+/**/
+
+.debug {
+    border: 1px, solid red;
+}
+
+body {
+    background-color: beige;
+}
+
+.container {
+    height: 100dvh;
+}
